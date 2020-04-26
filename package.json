@@ -1,0 +1,23 @@
+{
+  "name": "memotest",
+  "version": "1.0.0",
+  "description": "Juego Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mainimi/Memotest.git"
+  },
+  "author": "Mainimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mainimi/Memotest/issues"
+  },
+  "homepage": "https://github.com/Mainimi/Memotest#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0"
+  }
+}

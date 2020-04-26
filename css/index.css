@@ -1,0 +1,41 @@
+html, body, #panel-general{
+    height: 100%;
+}
+.cuadro{
+    height: 20vh;
+    opacity: 0;
+    transition: 500ms;
+}
+.negro{
+    background-color: black;
+}
+
+.rojo{
+    background-color: red;
+}
+
+.naranja{
+    background-color: orange;
+}
+
+.violeta{
+    background-color:violet;
+    
+}
+
+.turquesa{
+    background-color: turquoise;
+    
+}
+
+.blanco{
+    background-color: white;
+}
+
+.amarillo{
+    background-color: yellow;
+}
+
+.verde{
+    background-color: green;
+}
